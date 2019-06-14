@@ -1,21 +1,34 @@
 ---
 templateKey: index-page
-title: CMS starter
+title: Cia Anjos da Alegria
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Sorria, sorria, cehgou os anjos da alegria'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Você conhece nosso trabalho?
+  description: >-
+    Somos a Cia. Anjos da Alegria de Sorocaba/SP, atuamos desde 2006 na cidade
+    de Sorocaba atuando em hospitais da cidade, entidades, asilos, e
+    participando de ações beneficentes, com um único objetivo, fazer o bem sem
+    olhar a quem. 
+
+     
+
+    A Cia é formada por voluntários que atuam em diversas áreas 
+
+
+    profissionais, o que é um grande ponto positivo, já que a 
+
+
+    contribuição e criatividade é bem ampla.
+
+     
+
+    O amor pelo nariz vermelho e o sorriso que recebemos 
+
+
+    por onde passamos é a nossa motivação, nos move e nos faz melhores.
+description: '  '
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,15 +65,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Nossa missão
+  description: >-
+    O amor transparecer em forma de sorrisos e semear alegria nos corações
+    daqueles que por um momento esqueceram o que é ser feliz.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/flavor_wheel.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
